@@ -1,6 +1,6 @@
 # Introduction to Database Systems
 
-Material for Carnegie Mellon University's Intro to Database Systems (Fall 2019) 15-445/645
+Material for Carnegie Mellon University's Intro to Database Systems (Fall 2023) 15-445/645
 
 > This course is on the design and implementation of database management systems. Topics include data
 > models (relational, document, key/value), storage models (n-ary, decomposition), query languages
